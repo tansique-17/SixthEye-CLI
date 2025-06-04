@@ -1,0 +1,125 @@
+[Servers]
+Apache, Nginx, IIS, Cloudflare, LiteSpeed, Caddy, Tomcat, Jetty, Varnish, Oracle-HTTP-Server, HAProxy, Traefik, Envoy, Cherokee, Boa, WebLogic, Lighttpd, Zeus, Plesk, OpenResty, IBM HTTP Server, F5, Red Hat HTTP Server, Resin, Sun Java System Web Server, Roxen, Abyss, Mongoose, WildFly, GlassFish, Helicon Ape, Yaws, SAP Web Dispatcher, NetWare Enterprise Web Server, Lotus Domino, Microsoft HTTPAPI, Tengine, Monkey HTTP Server, AllegroServe, Netscape Enterprise Server, TwistedWeb, Axigen, IceWarp
+
+[CMS]
+WordPress, Joomla, Drupal, Magento, Shopify, TYPO3, Blogger, Ghost, Wix, Squarespace, OpenCart, WooCommerce, HubSpot CMS, Contentful, Sitecore, Strapi, Umbraco, Webflow, Craft CMS, Concrete5, Grav, OctoberCMS, MODX, BigCommerce, Weebly, Jimdo, Textpattern, SilverStripe, Duda, ExpressionEngine, CMS Made Simple, Plone, Anchor CMS, DotNetNuke, eZ Publish, ImpressPages, Fork CMS, Subrion, Bolt CMS, Zenario, SPIP, Pico CMS, Redaxscript, Tiki Wiki CMS, Pagekit, Publii, WonderCMS, Kirby CMS
+
+[Frameworks]
+Laravel, Rails, Django, Flask, ASP.NET, Spring, Express, Symfony, CodeIgniter, CakePHP, Ruby on Rails, Vue.js, Next.js, Nuxt.js, Gatsby, FastAPI, Sapper, Meteor, Hugo, Angular, AngularJS, React, Ember.js, Backbone.js, Bootstrap, Foundation, Mithril.js, Bulma, Polymer, Svelte, LitElement, Knockout.js, JQuery, Knockback.js, Elm, Riot.js, Aurelia, Ractive.js, Node.js, Phoenix, Play Framework, Zend Framework, Grails, Falcon, Pyramid, Web2py, CherryPy, NancyFX, Hanami, Revel, Beego, Buffalo, Yesod
+
+[JavaScript Libraries]
+jQuery, Angular, React, Vue, Bootstrap, Ember.js, Backbone.js, Polymer, Svelte, D3.js, Chart.js, Lodash, Alpine.js, Three.js, P5.js, RxJS, Underscore.js, Mocha, Jasmine, RequireJS, Handlebars.js, Leaflet, Phaser.js, GSAP, Snap.svg, Velocity.js, Express.js, Sinon.js, React Router, Redux, Axios, Moment.js, Webpack, Babel, Parcel, Rollup.js, Zepto.js, Popper.js, Highcharts, ECharts, Kendo UI, Ant Design, Material UI
+
+[Databases]
+MySQL, PostgreSQL, MongoDB, SQLite, Redis, MariaDB, Cassandra, OracleDB, CouchDB, Firebase, DynamoDB, Elasticsearch, Neo4j, CockroachDB, ArangoDB, InfluxDB, ScyllaDB, Amazon RDS, Firebase Realtime Database, IBM Db2, Microsoft SQL Server, Amazon Aurora, Google Cloud Spanner, RedisLabs, HBase, Vertica, Memcached, ClickHouse, Greenplum, Snowflake, Apache HBase, Amazon Redshift, TiDB, YugabyteDB, TimescaleDB, Hazelcast, SAP HANA, Realm, Bigtable
+
+[CDNs]
+Cloudflare, Akamai, Fastly, Amazon CloudFront, Google Cloud CDN, Azure CDN, Imperva, StackPath, KeyCDN, CDN77, Cloudinary, BunnyCDN, Rackspace, CacheFly, MaxCDN, EdgeCast, Alibaba CDN, Tencent CDN, AWS Global Accelerator, Netlify Edge, Gcore CDN, BaishanCloud, Verizon CDN, CDNsun, SkyparkCDN, Swarmify, Peer5, Medianova, Quantil, Jet-Stream
+
+[DevOps Tools]
+Docker, Kubernetes, Jenkins, Ansible, Terraform, Puppet, Chef, GitLab CI, Travis CI, CircleCI, ArgoCD, Spinnaker, Flux, Nomad, SaltStack, Vagrant, Bamboo, GitHub Actions, TeamCity, New Relic, Splunk, SonarQube, Datadog, Packer, CloudFormation, CodeDeploy, GitLab Runner, Semaphore, Buildkite, AppVeyor, HashiCorp Vault
+
+[Security Technologies]
+CSP, HSTS, X-Content-Type, X-Frame, X-XSS, Subresource Integrity, Secure Cookies, SSL/TLS, WAF, Firewall, IDS/IPS, SIEM, Zero Trust, EDR, MFA, U2F, Biometric Auth, SOC, DLP, RASP, DDOS Protection, DMARC, SPF, VPN, SAML, FIDO2, JWT, PKI, DNSSEC, OpenID Connect, OAuth 2.0, Secure Boot, Endpoint Protection
+
+[WAF Types]
+Cloudflare, F5, Palo Alto Networks, Imperva, Akamai, Barracuda, ModSecurity, AWS WAF, Azure WAF, Sucuri, NGINX WAF, Fortinet WAF, Citrix WAF, Radware, StackPath, Sophos, Trustwave, BitNinja, ShieldSquare, OpenResty
+
+[Analytics]
+Google Analytics, Tag Manager, Mixpanel, Matomo, Adobe Analytics, Hotjar, Heap, Segment, Crazy Egg, Plausible, Fathom, Amplitude, FullStory, Clarity, Snowplow, Chartbeat, Kissmetrics, Piwik, Yandex Metrica, Optimizely
+
+[Security Headers]
+Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, X-Frame-Options, X-XSS-Protection, Cache-Control, Set-Cookie, Referrer-Policy, Permissions-Policy, Feature-Policy, Expect-CT, Access-Control-Allow-Origin
+
+[Web Technologies]
+HTML5, CSS3, WebSockets, WebRTC, WebAssembly, HTTP2, HTTP3, Server-Sent Events, AJAX, JSON, SVG, WebP, PWA, Web Components, Shadow DOM, Service Workers, Web Manifest
+
+[API Technologies]
+GraphQL, REST, SOAP, gRPC, OData, WebSockets, JSON-RPC, XML-RPC, XML, JSON, API Gateway, OpenAPI, Swagger, Apigee, Kong API Gateway, Amazon API Gateway, Azure API Management, Postman, RAML
+
+[WAF Patterns]
+Cloudflare, F5, Palo Alto Networks, Imperva, Akamai, ModSecurity, AWS WAF, Azure WAF, Sucuri, NGINX WAF, Fortinet, Radware, Citrix WAF, Sophos, Trustwave
+
+[SOC Patterns]
+SOC, Splunk, New Relic, Datadog, LogRhythm, Sumo Logic, Graylog, SIEM, Q-Radar, Elastic Security
+
+[EDR Patterns]
+EDR, CrowdStrike, SentinelOne, CarbonBlack, Microsoft Defender, Symantec, Sophos, FireEye, Cylance, McAfee, TrendMicro
+
+[Programming Languages]
+PHP, Python, Java, Ruby, Node.js, Go, Rust, C#, Perl, Scala, Kotlin, Elixir, Dart, ColdFusion, Tcl, Lua, C++, Haskell, Julia, Groovy, Erlang, Objective-C, Pascal, Bash, R, COBOL, F#, PowerShell
+
+[Reverse Proxies]
+Nginx, HAProxy, Apache Traffic Server, Varnish, Envoy, Squid Proxy, Pound, Traefik, Caddy, TinyProxy, Zscaler, Bluecoat Proxy
+
+[Load Balancers]
+AWS ELB, Azure Load Balancer, F5 BIG-IP, HAProxy, Nginx Plus, Kemp LoadMaster, Citrix ADC, Radware Alteon, Barracuda LB
+
+[Monitoring Tools]
+Prometheus, Grafana, Nagios, Zabbix, Datadog, Splunk, New Relic, Icinga, AppDynamics, Elastic Stack, SolarWinds, Graylog
+
+[Authentication Protocols]
+OAuth2, SAML, OpenID Connect, LDAP, RADIUS, Kerberos, JWT, NTLM, Basic Auth, Digest Auth, PKI, WebAuthn, FIDO2
+
+[Web Hosting Providers]
+AWS, Azure, GCP, DigitalOcean, Heroku, Netlify, Vercel, Firebase, Render, Hostinger, GoDaddy, Bluehost, HostGator
+
+[Container Platforms]
+Docker, Podman, LXC, LXD, Kubernetes, CRI-O, Containerd, OpenShift, Rancher, Docker Swarm, ECS, Cloud Run, Nomad
+
+[Virtualization Platforms]
+VMware, VirtualBox, KVM, Xen, Hyper-V, QEMU, Proxmox VE, Citrix Hypervisor, OpenStack, Oracle VM, Parallels
+
+[File Storage Systems]
+NFS, SMB, CephFS, GlusterFS, EFS, Lustre, ZFS, Btrfs, Amazon S3, Google Cloud Storage, Azure Blob, MinIO
+
+[Webmail Platforms]
+Roundcube, SquirrelMail, Zimbra, Horde, RainLoop, Atmail, Mailcow UI, Mailpile, Mailu, ProtonMail, Zoho Mail, Tutanota
+
+[CI/CD Platforms]
+Jenkins, GitLab CI, Travis CI, CircleCI, Bamboo, Azure Pipelines, GitHub Actions, Semaphore, GoCD, TeamCity, Spinnaker
+
+[Message Brokers / Event Streaming Platforms]
+Apache Kafka, RabbitMQ, ActiveMQ, SQS, Pub/Sub, Event Hubs, Pulsar, MQTT, Redis Streams, Beanstalkd, NATS
+
+[Tracking & Advertising Technologies]
+Google Ads, Facebook Pixel, LinkedIn Insight, Taboola, Outbrain, AdRoll, Criteo, AdSense, Snapchat Ads, Bing Ads
+
+[Third-Party Widgets & Embeds]
+Disqus, YouTube Embed, Vimeo Embed, SoundCloud, Calendly, Google Maps Embed, Facebook Comments, AddThis, ShareThis
+
+[Payment Technologies]
+Stripe, PayPal, Razorpay, Square, Apple Pay, Google Pay, Adyen, PayU, Klarna, Checkout.com
+
+[Email Marketing Technologies]
+Mailchimp, SendGrid, Mailgun, ActiveCampaign, AWeber, Zoho Campaigns, ConvertKit, Campaign Monitor, MailerLite
+
+[Captcha Technologies]
+reCAPTCHA v2, reCAPTCHA v3, hCaptcha, FunCaptcha, GeeTest, Friendly Captcha, Arkose Labs
+
+[Error Monitoring Tools]
+Sentry, Rollbar, Bugsnag, Raygun, Airbrake, Instana, LogRocket, Scout APM
+
+[Customer Support Tools]
+Zendesk, Freshdesk, Crisp, Intercom, LiveChat, Drift, Tawk.to, Helpscout, Chatra, Gorgias
+
+[Static Site Generators]
+Jekyll, Hugo, Gatsby, Hexo, Eleventy, Nuxt.js, VuePress, Scully, Pelican, Middleman, Astro
+
+[Code Hosting / Developer Tools]
+GitHub, GitLab, Bitbucket, CodePen, JSFiddle, CodeSandbox, Glitch, StackBlitz, Vercel, Netlify
+
+[Content Delivery Optimization Tools]
+Cloudflare Mirage, Cloudflare Polish, Fastly IO, Google PageSpeed, NitroPack, ImageKit, Imgix, Bunny Optimizer
+
+[SEO Optimization Tools]
+Yoast SEO, SEOPress, RankMath, Moz, SEMrush, Ahrefs, Screaming Frog, Sitechecker, Ubersuggest
+
+[Font Providers]
+Google Fonts, Adobe Fonts, FontAwesome, Typekit, MyFonts, FontSquirrel, Hoefler&Co
+
+[Image CDN Services]
+Cloudinary, Imgix, ImageKit, Sirv, BunnyCDN, KeyCDN Image, Uploadcare
+
+[Social Media Plugins]
+Facebook Like Box, Twitter Timeline, LinkedIn Share, Pinterest Pin It, Instagram Feed, TikTok Share Button, AddThis
